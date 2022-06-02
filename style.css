@@ -8,9 +8,6 @@ body {
 	text-shadow: 2px 2px rgb(228,0,43,0.5);
 	position: absolute;
 	left: 40%;
-	top: 2em;
-	margin-top: 0.67em;
-	margin-bottom: 0.67em;
 }
 
 h1 {
@@ -70,26 +67,3 @@ figure {
 	top: 2em;
 }
 
-.vl4 {
-	border-left: 6px solid rgb(228,0,43,1);
-	height: 975px;
-	position: absolute;
-	left: 70%;
-	top: 2em;
-}
-
-.vl5 {
-	border-left: 6px solid rgb(0,150,57,0.9);
-	height: 975px;
-	position: absolute;
-	left: 70.8%;
-	top: 2em;
-}
-
-.vl6 {
-	border-left: 6px solid rgb(255,2555,255,0.8);
-	height: 975px;
-	position: absolute;
-	left: 71.6%;
-	top: 2em;
-}
