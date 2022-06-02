@@ -5,6 +5,7 @@ body {
 .description {
 	font-size: 1.0em;
 	color: rgb(255,255,255,1.0); 
+	text-shadow: 2px 2px rgb(228,0,43,0.5);
 	position: absolute;
 	left: 40%;
 	top: 2em;
