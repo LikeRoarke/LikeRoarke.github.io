@@ -11,6 +11,15 @@ body {
 	top: 2em;
 	left: 40%;
 }
+.description2 {
+	font-size: 1.0em;
+	font-weight: bold;
+	color: rgb(255,255,255,1.0); 
+	text-shadow: 2px 2px rgb(228,0,43,0.5);
+	position: absolute;
+	top: 2em;
+	left: 40%;
+}
 
 h1 {
 	font-size: 2em;
